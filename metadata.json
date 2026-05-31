@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Chemistry",
+  "description": "An infinite chemistry laboratory game powered by local recipes and Gemini AI fusion. Combine elements to discover rare compounds and sync progress to Supabase!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
